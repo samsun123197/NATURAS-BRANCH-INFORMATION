@@ -6,4 +6,4 @@ Proxy ile bu kısmı bir nebze aşılsa da tarama yavaş olmaktadır.
 Şuan eşzamanlı Asenkron kütüphane ile denemeye devam edilebilir
 geliştirmeye devam....
 
-![11](https://github.com/user-attachments/assets/b7242890-04f6-4525-a823-fd146b46e667)
+![11](https://github.com/user-attachments/assets/75547a1b-7566-42b3-b8be-215c7c475d2d)
