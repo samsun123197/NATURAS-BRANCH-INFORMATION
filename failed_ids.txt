@@ -1,0 +1,4 @@
+110160227085;Bağlantı/Proxy Hatası: HTTPSConnectionPool(host='vp.golfdondurma.com.tr', | Proxy: 157.175.152.104:9281
+110160227086;Bağlantı/Proxy Hatası: HTTPSConnectionPool(host='vp.golfdondurma.com.tr', | Proxy: 13.125.7.17:421
+110160227087;İçerik Etiketi Bulunamadı (Oturum Sorunu/Geçersiz ID) | Proxy: 18.163.3.251:10019
+110160227083;Bağlantı/Proxy Hatası: HTTPSConnectionPool(host='vp.golfdondurma.com.tr', | Proxy: 38.188.186.47:999
